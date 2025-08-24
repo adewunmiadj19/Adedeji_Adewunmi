@@ -1,9 +1,11 @@
 # Hi there 👋, I'm Adedeji Adewunmi  
 
-💡 **Data Analyst | SQL | Power BI | Excel | Data Storytelling**  
+ **Data Analyst | SQL | Power BI | Excel | Data Storytelling**  
 
-I help businesses make smarter decisions by transforming raw data into clear, actionable insights.  
-My projects focus on **data cleaning, visualization, and reporting** using tools like **SQL, Power BI, and Excel**.  
+I help businesses make smarter decisions by making sense of their data.  
+- I enjoy building dashboards that gives clarity to numbers.
+- Cleaning messy datasets and make them useful.
+- Writing SQL queries that simplify decision-making 
 
 ---
 
@@ -44,8 +46,7 @@ My projects focus on **data cleaning, visualization, and reporting** using tools
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced Excel
+##  Currently Learning  
 - Advanced SQL optimization   
 - Data storytelling with visuals  
 
@@ -57,4 +58,4 @@ My projects focus on **data cleaning, visualization, and reporting** using tools
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/adedeji-adewunmi-adj21)  
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:adewunmiadedeji723@gmail.com)  
 
-⭐️ *“Turning data into insights.”*
+ *“Turning data into insights.”*
