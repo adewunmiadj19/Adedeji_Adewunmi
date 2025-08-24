@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Adedeji Adewunmi  
+# Hi , I'm Adedeji Adewunmi  
 
  **Data Analyst | SQL | Power BI | Excel | Data Storytelling**  
 
@@ -47,7 +47,7 @@ I help businesses make smarter decisions by making sense of their data.
 ---
 
 ##  Currently Learning  
-- Advanced SQL optimization   
+- Advanced SQL   
 - Data storytelling with visuals  
 
 
